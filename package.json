@@ -1,0 +1,19 @@
+{
+  "name": "k6performance",
+  "version": "1.0.0",
+  "description": "k6 scripts examples",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suyash3010/k6performance.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suyash3010/k6performance/issues"
+  },
+  "homepage": "https://github.com/suyash3010/k6performance#readme"
+}
